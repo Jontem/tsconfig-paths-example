@@ -1,0 +1,14 @@
+{
+  "name": "tsconfig-paths-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd 1/ && npm start && cd ../2/ && npm start && cd ../3/ && npm start && cd ../4/ && npm start && cd ../5/ && npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsconfig-paths": "^1.0.0"
+  }
+}

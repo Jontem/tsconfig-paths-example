@@ -1,0 +1,14 @@
+{
+  "name": "node-tsconfig-paths-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && cd js_out/ && node -r ../tsconfig-paths-bootstrap.js main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsconfig-paths": "^1.0.0"
+  }
+}
