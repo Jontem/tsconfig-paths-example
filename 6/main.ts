@@ -1,0 +1,1 @@
+console.log("Should show warning of missing tsconfig");

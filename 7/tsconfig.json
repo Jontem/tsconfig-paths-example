@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "baseUrl": "./",
+        "outDir": "js_out/",
+        "allowJs": false
+    }
+}

@@ -4,7 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cd 1/ && npm start && cd ../2/ && npm start && cd ../3/ && npm start && cd ../4/ && npm start && cd ../5/ && npm start"
+    "start": "npm run 1 && npm run 2 && npm run 3 && npm run 4 && npm run 5 && npm run 6 && npm run 7",
+    "1": "cd 1/ && npm start",
+    "2": "cd 2/ && npm start",
+    "3": "cd 3/ && npm start",
+    "4": "cd 4/ && npm start",
+    "5": "cd 5/ && npm start",
+    "6": "cd 6/ && npm start",
+    "7": "cd 7/ && npm start"
   },
   "author": "",
   "license": "ISC",

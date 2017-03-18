@@ -1,0 +1,1 @@
+console.log("Should show warning about paths");
