@@ -4,7 +4,7 @@
         "target": "es5",
         "noImplicitAny": false,
         "sourceMap": false,
-        "baseUrl": "./",
+        "baseUrl": "./services",
         "outDir": "js_out/",
         "allowJs": false
     }

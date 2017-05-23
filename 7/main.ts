@@ -1,1 +1,2 @@
-console.log("Should show warning about paths");
+import { hello } from "user"
+console.log(hello);
