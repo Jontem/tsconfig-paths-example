@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run 1 && npm run 2 && npm run 3 && npm run 4 && npm run 5 && npm run 6 && npm run 7 && npm run 8 && npm run 9",
+    "start": "npm run 1 &&  npm run 2 && npm run 3 && npm run 4 && npm run 5 && npm run 6 && npm run 7 && npm run 8 && npm run 9 && npm run 10",
     "1": "cd 1/ && npm start",
     "2": "cd 2/ && npm start",
     "3": "cd 3/ && npm start",
@@ -13,7 +13,8 @@
     "6": "cd 6/ && npm start",
     "7": "cd 7/ && npm start",
     "8": "cd 8/ && npm start",
-    "9": "cd 9/ && npm start"
+    "9": "cd 9/ && npm start",
+    "10": "cd 10/ && npm start"
   },
   "author": "",
   "license": "ISC",
