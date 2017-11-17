@@ -1,4 +1,5 @@
 {
+    // a test comment
     "extends": "./base-tsconfig.json",
     "compilerOptions": {
         "module": "commonjs",
